@@ -1,0 +1,30 @@
+#!/bin/sh
+cd "$(dirname "$BASH_SOURCE")"
+rm -f ./*.java
+rm -f ./*.class
+rm -f ./*.txt
+rm -f ./*.htm
+rm -f ./*.html
+rm -f ./*.jcp
+rm -f ./*.jcw
+rm -f ./*.jcu
+rm -f ./*.rbt
+rm -f ./*.doc
+rm -f ./*.docx
+rm -f ./*.ppt
+rm -f ./*.pptx
+rm -f ./*.css
+rm -f ./*.gpi
+rm -f ./*.jar
+rm -f ./*.dat
+rm -f ./*.py
+rm -f ./*.bas
+rm -f ./*.pas
+rm -f ./*.cpp
+rm -f ./*.gif
+rm -f ./*.jpg
+rm -f ./*.jpeg
+rm -f ./*.png
+rm -f ./*.bmp
+rm -f ./*.pdf
+cp -Rp ./Backup/ .

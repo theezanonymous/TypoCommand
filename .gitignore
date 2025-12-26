@@ -1,0 +1,4 @@
+Backup/
+out/
+*.class
+.DS_Store
