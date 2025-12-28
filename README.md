@@ -2,7 +2,7 @@
 
 A Java graphics game inspired by classic typing-defense games.  
 Letters fall from the top of the screen, and the player must type them before they reach the cities below.
-
+Difficulty increases with score (currently includes fast, vanishing, warping, and changing letters). 
 Built using **Java AWT/Swing**.
 
 ## How to Run
@@ -19,5 +19,5 @@ If the display is bugged, resize the window.
 ## Demo
 
 
-https://github.com/user-attachments/assets/c237e0aa-b233-4234-b7c2-153bb3feee9b
+https://github.com/user-attachments/assets/280712ff-6852-4581-8ddb-37ef6582ad2a
 
