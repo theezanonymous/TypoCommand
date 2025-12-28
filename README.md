@@ -15,3 +15,9 @@ javac -d out src/*.java
 java -cp out src.TypoCommand
 
 If the display is bugged, resize the window. 
+
+## Demo
+
+
+https://github.com/user-attachments/assets/c237e0aa-b233-4234-b7c2-153bb3feee9b
+
