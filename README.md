@@ -13,9 +13,9 @@ From the project root:
 mkdir -p out
 javac -d out src/*.java
 java -cp out src.TypoCommand
-
-If the display is bugged, resize the window. 
 ```
+If the display is bugged, drag and resize the window. 
+
 ## Demo
 
 
